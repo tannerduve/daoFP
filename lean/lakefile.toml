@@ -1,0 +1,10 @@
+name = "daoFP-lean"
+version = "0.1.0"
+defaultTargets = ["daofp-lean"]
+
+[[lean_lib]]
+name = "DaoFPLean"
+
+[[lean_exe]]
+name = "daofp-lean"
+root = "Main"

@@ -43,3 +43,11 @@ Thumbs.db
 *.tmp
 *.temp
 *.log
+
+# Lean 4 build artifacts
+lean/build/
+lean/.lake/
+lean/lake-packages/
+*.olean
+.lake/
+lake-packages/
