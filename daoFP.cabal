@@ -65,6 +65,7 @@ library
                     , Ch07.Recursion
                     , Ch08.Functors
                     , Ch09.Natural
+                    , Ch10.Adjunction
 
     -- LANGUAGE extensions used by modules in this package.
     other-extensions: GADTs
